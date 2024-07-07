@@ -18,14 +18,14 @@ Room bookings are managed through six primary platforms, each vital to the hotel
 ## Revenue Analysis Dashboard
 
 *Figure 1: Overview of the key metrics such as Revenue, Occupancy Percentage, RevPar, ADR, and Realisation Percentage.*
-![Revenue Analysis Dashboard](https://drive.google.com/file/d/1-G_p0RjE5LQFIFs2JS3q5_j759-pU0Qh/view?usp=sharing)
 
+![Revenue Analysis Dashboard](https://drive.google.com/uc?export=view&id=1-G_p0RjE5LQFIFs2JS3q5_j759-pU0Qh)
 
 
 ### Sub Analysis
 *Figure 2: Breakdown of Revenue by platform, Occupancy Percentage, Realisation Percentage, ADR, and weekly Revenue trends.*
 
-![Sub Analysis](path_to_image/sub_analysis.png)
+![Sub Analysis](https://drive.google.com/uc?export=view&id=1YFU0zBy4D14U2pyOu71o1yMviISLEa8X)
 
 
 ### Property Key Metrics
@@ -33,12 +33,12 @@ Room bookings are managed through six primary platforms, each vital to the hotel
 *Figure 3: Property-wise key metrics, Booking Percentage by Room Class, Revenue by Property Name, DSRN by week, and ADR trends.*
 
 
-![Property Key Metrics](path_to_image/property_key_metrics.png)
+![Property Key Metrics](https://drive.google.com/uc?export=view&id=1K7dTX7czuODW5US0NYKroO7_ZKSwRpoq)
 
 ### Data Model
 
 *Figure 4: Structure of the data model, showing the relationships and organization of data entities to support the analysis framework.*
 
-![Data Model](path_to_image/data_model.png)
+![Data Model](https://drive.google.com/uc?export=view&id=1Y9Iey71OZBIQdIlWnJ5aAaNRQAUnpwJS)
 
 
